@@ -1,0 +1,42 @@
+commit bc54ccf6df004ab01d31755139715c07be0bc63e (HEAD -> main, origin/main)
+Author: Lking1824 <81127783+Lking1824@users.noreply.github.com>
+Date:   Mon Jan 31 21:48:03 2022 -0700
+
+    Last update was wrong
+
+commit 1a9502f8c3cd911709929a28f2088008e545855f
+Author: Lking1824 <81127783+Lking1824@users.noreply.github.com>
+Date:   Mon Jan 31 21:44:53 2022 -0700
+
+    Update .gitignore
+
+commit bdf6cfe2566b444701847bd78783a30043a0e1de
+Merge: e3e35e5 c41b79a
+Author: Lking1824 <king1@mymail.mines.edu>
+Date:   Mon Jan 31 21:23:05 2022 -0700
+
+    Fixed formatting in Burner class
+
+commit e3e35e5995a0a1d1dcacb9ce355598e1ac02bcd3
+Author: Lking1824 <king1@mymail.mines.edu>
+Date:   Mon Jan 31 21:21:44 2022 -0700
+
+    Fixed formatting in Burner class
+
+commit c41b79aeaa5d2773eb6270b892f29905c6da176b
+Author: mace818 <masonharless@mines.edu>
+Date:   Mon Jan 31 21:19:34 2022 -0700
+
+    added burner class
+
+commit df60d02775dde5526de378782e023559922f8925
+Author: Lking1824 <king1@mymail.mines.edu>
+Date:   Mon Jan 31 19:06:49 2022 -0700
+
+    Added the Settings enum
+
+commit 107ff615defaf05e0d1543876f2c1a4bc590f0f9
+Author: Lucas <king1@mymail.mines.edu>
+Date:   Mon Jan 31 18:48:45 2022 -0700
+
+    Initial commit
